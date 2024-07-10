@@ -1,4 +1,4 @@
-# venkateshpanguluri.github.io
+# venkatesh-2022.github.io
 Venkatesh Panguluri's Portfolio Website
 Welcome to the repository for my personal portfolio website. This website is designed to showcase my professional background, skills, and projects as a Java Full Stack Developer specializing in Java, Spring, RESTful API's, Microservices, ReactJS, NodeJS, and AWS.
 
@@ -8,4 +8,4 @@ For inquiries or collaborations, the contact section provides information on how
 
 This site is a testament to my journey in the tech industry and serves as a platform for professional growth and networking.
 
-Visit the live website at: https://venkateshpanguluri.github.io/
+Visit the live website at: https://venkatesh-2022.github.io/
